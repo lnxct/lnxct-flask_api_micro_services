@@ -1,4 +1,4 @@
-✨ Now updated with Flask 2.0 and Flask-Extended!!  ✨
+✨ Flask REST API Micro Services !!  ✨
 
 ### Start Postgres or SQL Server db and update credentials on `config.py`
 * update `SQLALCHEMY_DATABASE_URI` in app.py with db config name
